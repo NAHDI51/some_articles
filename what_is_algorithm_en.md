@@ -10,6 +10,8 @@ Algorithm, in simple words, is a set of procedure, that should be done, *in orde
 
 ---
 
+<Is this really a commen?>
+
 ### An Example
 
 Supose, you are given a jar of water, a glass, and a packet of Dried orange powder, and you are told to make a glass of orange juice. **Problematic**, isn't it?
