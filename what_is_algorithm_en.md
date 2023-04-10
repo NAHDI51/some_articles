@@ -1,6 +1,10 @@
+//Facebook caption
+
 # Introduction to Algortihm
 
 Algorithm is one of the oldest branch of mathematics, a deeply rooted branch that expanded exponentially ever since the age of computing started. Before there were computers, there were algorithms, and now that there are more computers, there are more algorithms. Whenever there were problems to solve, there were algorithms. Now, algorithm has curved itself to be the heart of computing. A topic so influential, naturally arises a question, ***What exactly is algorithm?***
+
+// Page 1
 
 ## What is Algorithm?
 
@@ -10,12 +14,15 @@ Algorithm, in simple words, is a set of procedure, that should be done, *in orde
 
 ---
 
+//Page 2
+
 ### An Example
 
 Supose, you are given a jar of water, a glass, and a packet of Dried orange powder, and you are told to make a glass of orange juice. **Problematic**, isn't it?
 
 In other words, you are given a *task*, to make, or *"ouptut"* the *orange juice*, using the *inputs* or the *ingredients* you are given.
 
+//Mention these inputs and outputs in the poster
 ---
 
 ### Input
@@ -30,11 +37,14 @@ In other words, you are given a *task*, to make, or *"ouptut"* the *orange juice
 
 ---
 
+//page 3
+
 ![Input and Output](images/assets1.jpg "Input and Output")
 
 
 It is clear that we will need to follow a thorough procedure in order to make that juice. And that, precisely is our **algorithm** in this case.
 
+//Mention this section
 ```C++
 Procedure:
 1. Pour water into the glass.
